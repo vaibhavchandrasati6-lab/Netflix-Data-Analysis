@@ -157,6 +157,7 @@ It demonstrates how data analysis can help understand entertainment industry tre
 ## 👨‍💻 Author
 
 **Vaibhav Chandra Sati**
+
 Aspiring Data Scientist | Python | Pandas | Data Analysis Enthusiast
 
 ---
